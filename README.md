@@ -1,5 +1,6 @@
 # Size-Curve-Problem
 Size Curve Problem : Demand Estimation for Product Variants
+Problem article and credit: https://www.gormanalysis.com/blog/solving-the-size-curve-problem/
 
 Motivation : Retailers face a tricky problem when deciding how many units of each size to order for products like t-shirts (small, medium, large, extra-large, and so on).  Sales figures alone aren't a reliable guide to actual customer demand for a few key reasons.  First, if a particular size was out of stock at any point, the sales records will underestimate how many people actually wanted to buy it.  Second, what people want can change with the weather, the latest styles, or even where they live.  A sudden heatwave might boost demand for larger sizes of lightweight shirts, for example.  Finally, for a brand new product, there simply isn't enough sales history to accurately predict what sizes will be most popular.
 
